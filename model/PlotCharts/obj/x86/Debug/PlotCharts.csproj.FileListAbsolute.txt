@@ -1,0 +1,240 @@
+C:\Users\GeN7iL\Desktop\PlotCharts\PlotCharts\PlotCharts\bin\Debug\PlotCharts.exe
+C:\Users\GeN7iL\Desktop\PlotCharts\PlotCharts\PlotCharts\bin\Debug\PlotCharts.pdb
+C:\Users\GeN7iL\Desktop\PlotCharts\PlotCharts\PlotCharts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GeN7iL\Desktop\PlotCharts\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+C:\Users\GeN7iL\Desktop\PlotCharts\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+C:\Users\GeN7iL\Desktop\PlotCharts\PlotCharts\PlotCharts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GeN7iL\Desktop\PlotCharts\PlotCharts\PlotCharts\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GeN7iL\Desktop\PlotCharts\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.exe
+C:\Users\GeN7iL\Desktop\PlotCharts\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+C:\Users\Мастер\Documents\Visual Studio 2015\Projects\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.exe
+C:\Users\Мастер\Documents\Visual Studio 2015\Projects\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+C:\Users\Мастер\Documents\Visual Studio 2015\Projects\PlotCharts\PlotCharts\bin\Debug\PlotCharts.exe
+C:\Users\Мастер\Documents\Visual Studio 2015\Projects\PlotCharts\PlotCharts\bin\Debug\PlotCharts.pdb
+C:\Users\Мастер\Documents\Visual Studio 2015\Projects\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+C:\Users\Мастер\Documents\Visual Studio 2015\Projects\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+C:\Users\Мастер\Documents\Visual Studio 2015\Projects\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+C:\Users\Мастер\Documents\Visual Studio 2015\Projects\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+F:\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.exe
+F:\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+E:\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.exe
+E:\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+E:\PlotCharts\PlotCharts\bin\Debug\PlotCharts.exe
+E:\PlotCharts\PlotCharts\bin\Debug\PlotCharts.pdb
+E:\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+E:\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+E:\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+E:\PlotCharts\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+C:\Users\Мастер\Desktop\хриткин\cur\PlotCharts\obj\x86\Debug\PlotCharts.exe
+C:\Users\Мастер\Desktop\хриткин\cur\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+C:\Users\Мастер\Desktop\хриткин\cur\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+C:\Users\Мастер\Desktop\хриткин\cur\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+C:\Users\Мастер\Desktop\хриткин\cur\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+C:\Users\Мастер\Desktop\хриткин\cur\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+C:\Users\Мастер\Desktop\хриткин\cur\PlotCharts\bin\Debug\PlotCharts.exe
+C:\Users\Мастер\Desktop\хриткин\cur\PlotCharts\bin\Debug\PlotCharts.pdb
+F:\cur\PlotCharts\obj\x86\Debug\PlotCharts.exe
+F:\cur\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+F:\cur\PlotCharts\bin\Debug\PlotCharts.exe
+F:\cur\PlotCharts\bin\Debug\PlotCharts.pdb
+F:\cur\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+F:\cur\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+F:\cur\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+F:\cur\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+H:\cur\PlotCharts\obj\x86\Debug\PlotCharts.exe
+H:\cur\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+H:\cur\PlotCharts\bin\Debug\PlotCharts.exe
+H:\cur\PlotCharts\bin\Debug\PlotCharts.pdb
+H:\cur\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+H:\cur\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+H:\cur\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+H:\cur\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+F:\cur\PlotCharts\bin\Debug\PlotCharts.exe.config
+H:\cur\PlotCharts\bin\Debug\PlotCharts.exe.config
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\bin\Debug\PlotCharts.exe.config
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\obj\x86\Debug\PlotCharts.exe
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\bin\Debug\PlotCharts.exe
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\bin\Debug\PlotCharts.pdb
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\navapraim\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\bin\Debug\PlotCharts.exe.config
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.exe
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\bin\Debug\PlotCharts.exe
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\bin\Debug\PlotCharts.pdb
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+C:\Users\Мастер\Desktop\хриткин\Новая надежда\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+G:\novapraim\PlotCharts\bin\Debug\PlotCharts.exe.config
+G:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.exe
+G:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+G:\novapraim\PlotCharts\bin\Debug\PlotCharts.exe
+G:\novapraim\PlotCharts\bin\Debug\PlotCharts.pdb
+G:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+G:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+G:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+G:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+G:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+G:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+H:\novapraim\PlotCharts\bin\Debug\PlotCharts.exe.config
+H:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.exe
+H:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+H:\novapraim\PlotCharts\bin\Debug\PlotCharts.exe
+H:\novapraim\PlotCharts\bin\Debug\PlotCharts.pdb
+H:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+H:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+H:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+H:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+H:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+H:\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+C:\Users\silin\Desktop\novapraim\PlotCharts\bin\Debug\PlotCharts.exe.config
+C:\Users\silin\Desktop\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.exe
+C:\Users\silin\Desktop\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+C:\Users\silin\Desktop\novapraim\PlotCharts\bin\Debug\PlotCharts.exe
+C:\Users\silin\Desktop\novapraim\PlotCharts\bin\Debug\PlotCharts.pdb
+C:\Users\silin\Desktop\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+C:\Users\silin\Desktop\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+C:\Users\silin\Desktop\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+C:\Users\silin\Desktop\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+C:\Users\silin\Desktop\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+C:\Users\silin\Desktop\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\bin\Debug\PlotCharts.exe.config
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.exe
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\bin\Debug\PlotCharts.exe
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\bin\Debug\PlotCharts.pdb
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+C:\Users\silin\Desktop\ро\novapraim\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+F:\ро\spk\PlotCharts\bin\Debug\PlotCharts.exe.config
+F:\ро\spk\PlotCharts\obj\x86\Debug\PlotCharts.exe
+F:\ро\spk\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+F:\ро\spk\PlotCharts\bin\Debug\PlotCharts.exe
+F:\ро\spk\PlotCharts\bin\Debug\PlotCharts.pdb
+F:\ро\spk\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+F:\ро\spk\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+F:\ро\spk\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+F:\ро\spk\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+F:\ро\spk\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+F:\ро\spk\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+F:\к успеху идем\spk\PlotCharts\bin\Debug\PlotCharts.exe.config
+F:\к успеху идем\spk\PlotCharts\obj\x86\Debug\PlotCharts.exe
+F:\к успеху идем\spk\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+F:\к успеху идем\spk\PlotCharts\bin\Debug\PlotCharts.exe
+F:\к успеху идем\spk\PlotCharts\bin\Debug\PlotCharts.pdb
+F:\к успеху идем\spk\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+F:\к успеху идем\spk\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+F:\к успеху идем\spk\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+F:\к успеху идем\spk\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+F:\к успеху идем\spk\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+F:\к успеху идем\spk\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+F:\за графику пояснить\PlotCharts\bin\Debug\PlotCharts.exe.config
+F:\за графику пояснить\PlotCharts\obj\x86\Debug\PlotCharts.exe
+F:\за графику пояснить\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+F:\за графику пояснить\PlotCharts\bin\Debug\PlotCharts.exe
+F:\за графику пояснить\PlotCharts\bin\Debug\PlotCharts.pdb
+F:\за графику пояснить\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+F:\за графику пояснить\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+F:\за графику пояснить\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+F:\за графику пояснить\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+F:\за графику пояснить\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+F:\за графику пояснить\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+F:\grafon\PlotCharts\bin\Debug\PlotCharts.exe.config
+F:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.exe
+F:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+H:\grafon\PlotCharts\bin\Debug\PlotCharts.exe.config
+H:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.exe
+H:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+H:\grafon\PlotCharts\bin\Debug\PlotCharts.exe
+H:\grafon\PlotCharts\bin\Debug\PlotCharts.pdb
+H:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+H:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+H:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+H:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+H:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+H:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+F:\grafon\PlotCharts\bin\Debug\PlotCharts.exe
+F:\grafon\PlotCharts\bin\Debug\PlotCharts.pdb
+F:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+F:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+F:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+F:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+F:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+F:\grafon\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\bin\Debug\PlotCharts.exe.config
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\obj\x86\Debug\PlotCharts.exe
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\bin\Debug\PlotCharts.exe
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\bin\Debug\PlotCharts.pdb
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+C:\Users\Мастер\Desktop\реферат\lol\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+H:\2\PlotCharts\bin\Debug\PlotCharts.exe.config
+H:\2\PlotCharts\obj\x86\Debug\PlotCharts.exe
+H:\2\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+H:\2\PlotCharts\bin\Debug\PlotCharts.exe
+H:\2\PlotCharts\bin\Debug\PlotCharts.pdb
+H:\2\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+H:\2\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+H:\2\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+H:\2\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+H:\2\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+H:\2\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+F:\2\PlotCharts\bin\Debug\PlotCharts.exe.config
+F:\2\PlotCharts\obj\x86\Debug\PlotCharts.exe
+F:\2\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+F:\2\PlotCharts\bin\Debug\PlotCharts.exe
+F:\2\PlotCharts\bin\Debug\PlotCharts.pdb
+F:\2\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+F:\2\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+F:\2\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+F:\2\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+F:\2\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+F:\2\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+H:\хриткин\2\PlotCharts\bin\Debug\PlotCharts.exe.config
+H:\хриткин\2\PlotCharts\obj\x86\Debug\PlotCharts.exe
+H:\хриткин\2\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+H:\хриткин\2\PlotCharts\bin\Debug\PlotCharts.exe
+H:\хриткин\2\PlotCharts\bin\Debug\PlotCharts.pdb
+H:\хриткин\2\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+H:\хриткин\2\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+H:\хриткин\2\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+H:\хриткин\2\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+H:\хриткин\2\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+H:\хриткин\2\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+H:\хриткин\model\PlotCharts\bin\Debug\PlotCharts.exe.config
+H:\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.exe
+H:\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+H:\хриткин\model\PlotCharts\bin\Debug\PlotCharts.exe
+H:\хриткин\model\PlotCharts\bin\Debug\PlotCharts.pdb
+H:\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+H:\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+H:\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+H:\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+H:\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+H:\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
+I:\23.04\инфа\хриткин\model\PlotCharts\bin\Debug\PlotCharts.exe.config
+I:\23.04\инфа\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.exe
+I:\23.04\инфа\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.pdb
+I:\23.04\инфа\хриткин\model\PlotCharts\bin\Debug\PlotCharts.exe
+I:\23.04\инфа\хриткин\model\PlotCharts\bin\Debug\PlotCharts.pdb
+I:\23.04\инфа\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.csprojResolveAssemblyReference.cache
+I:\23.04\инфа\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.FiZvotF.resources
+I:\23.04\инфа\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.Form1.resources
+I:\23.04\инфа\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.Properties.Resources.resources
+I:\23.04\инфа\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.UotI.resources
+I:\23.04\инфа\хриткин\model\PlotCharts\obj\x86\Debug\PlotCharts.csproj.GenerateResource.Cache
